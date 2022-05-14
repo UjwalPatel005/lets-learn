@@ -1,0 +1,5 @@
+to treack project : GIT Init
+
+****command : git status --> difines statst : kya kya changes hua a h is repo me
+git add <file>..." to include in what will be committed -- stagig
+git commit -m mesasa
